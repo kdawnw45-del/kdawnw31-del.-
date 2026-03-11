@@ -1,45 +1,56 @@
-body{
-    font-family: Comic Sans MS;
-    background-color: ;
-    text-align: justice;
+/* Styling the Headings */
+.brand-main {
+    color: teal;
+    font-size: 3rem;
+    text-align: center;
+    text-transform: uppercase;
 }
 
-.title{
-    color: Lavender;
+#sub-brand {
+    color: gold; 
+    text-align: center;
+    letter-spacing: 5px;
 }
 
-.subtitle{
-    color:beige;
+.section-title {
+    border-bottom: 2px solid #333;
+    padding-bottom: 10px;
 }
 
-#section1{
-    color: rust;
+#footer-note {
+    color: scarletred;
+    font-variant: small-caps;
 }
 
-#section2{
+/* Styling the 6 Paragraphs */
+.intro-p {
+    font-family: serif;
+    font-size: 1.2rem;
+    line-height: 1.8;
+}
+
+#mission-p {
+    background-color: lavender;
+    padding: 15px;
+    border-left: 4px solid #d4af37;
+}
+
+.fabric-p {
     color: salmon;
 }
 
-.p1{
-    color: teal;
+#promo-p {
+    text-align: center;
+    border: 2px dashed #ff0000;
+    margin: 20px 0;
 }
 
-.p2{
-    color: gold;
+.trend-p {
+    font-family: sans-serif;
+    color: beige;
 }
 
-.p3{
-    color: scarlet red;
-}
-
-.p4{
-    color: sienna;
-}
-
-.p5{
+#shipping-p {
+    font-style: italic;
     color: azure;
-}
-
-.p6{
-    color: amber;
 }
