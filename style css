@@ -1,54 +1,45 @@
-/* Heading Styles */
-.brand-title {
-    color: #2c3e50;
-    text-transform: uppercase;
-    letter-spacing: 2px;
+body{
+    font-family: Comic Sans MS;
+    background-color: ;
+    text-align: justice;
 }
 
-#main-subtitle {
-    color: #e67e22;
-    font-style: italic;
+.title{
+    color: Lavender;
 }
 
-.collection-header {
-    border-bottom: 2px solid #34495e;
-    display: inline-block;
+.subtitle{
+    color:beige;
 }
 
-#contact-heading {
-    color: #7f8c8d;
-    font-size: 1.2rem;
+#section1{
+    color: rust;
 }
 
-/* Paragraph Styles */
-.intro-text {
-    font-family: 'Georgia', serif;
-    line-height: 1.6;
+#section2{
+    color: salmon;
 }
 
-#mission-statement {
-    background-color: #f4f4f4;
-    padding: 10px;
-    border-left: 5px solid #2c3e50;
+.p1{
+    color: teal;
 }
 
-.fabric-details {
-    color: #27ae60;
-    font-weight: bold;
+.p2{
+    color: gold;
 }
 
-#seasonal-promo {
-    text-align: center;
-    border: 1px dashed #c0392b;
-    padding: 10px;
+.p3{
+    color: scarlet red;
 }
 
-.sustainability-focus {
-    font-size: 0.9rem;
-    color: #16a085;
+.p4{
+    color: sienna;
 }
 
-#shipping-info {
-    font-family: monospace;
-    color: #8e44ad;
+.p5{
+    color: azure;
+}
+
+.p6{
+    color: amber;
 }
